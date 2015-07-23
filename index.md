@@ -5,9 +5,12 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
+title: "A Journey to get the Data Scientist out of me..."
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+    title: A Journey to craft the Data Scientist in me...
+    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
 widget-1:
     title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
