@@ -1,42 +1,42 @@
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+#- name: YouTube
+#  url: http://www.youtube.com/PhlowMedia
+#  class: icon-youtube
+#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: https://twitter.com/mrasumof
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: “Tweet to @mrasumof”
 
 - name: Facebook
-  url: http://www.facebook.com/phlow.media
-  class: icon-facebook
-  title: "Lass uns Freunde sein!"
+  url: https://www.linkedin.com/in/martinrasumoff
+  class: icon-linkedin
+  title: “Check my Resume @ LinkedIn“
 
-- name: Soundcloud
-  url: http://soundcloud.com/phlow
-  class: icon-soundcloud
-  title: "Sounds und Downloads und mehr"
+#- name: Soundcloud
+#  url: http://soundcloud.com/phlow
+#  class: icon-soundcloud
+#  title: "Sounds und Downloads und mehr"
 
 - name: GitHub
-  url: http://github.com/phlow
+  url: https://github.com/mrasumof
   class: icon-github
-  title: Code und mehr...
+  title: “Martin’s github repositories”
 
 - name: Instagram
-  url: http://instagram.com/phlowmedia
+  url: https://instagram.com/mrasumof/
   class: icon-instagram
-  title: "Bilder und Impressionen mit und ohne Filter..."
+  title: “Follow-me in Instagram”
 
-- name: Pinterest
-  url: http://www.pinterest.com/phlowmedia/
-  class: icon-pinterest
-  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
+#- name: Pinterest
+#  url: http://www.pinterest.com/phlowmedia/
+#  class: icon-pinterest
+#  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
 
 # - name: Xing
 #   url: https://www.xing.com/profile/Moritzmo_Sauer
