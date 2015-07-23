@@ -34,8 +34,8 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-#urlimg: "http://phlow.github.io/feeling-responsive/images/"
-urlimg: "https://avatars3.githubusercontent.com/u/9513909?v=3&u=d3f36bc422bcc73e69b4d969e4233077c742cefc&s=140"
+urlimg: "http://phlow.github.io/feeling-responsive/images/"
+#urlimg: "https://avatars3.githubusercontent.com/u/9513909?v=3&u=d3f36bc422bcc73e69b4d969e4233077c742cefc&s=140"
 
 
 # Logo size is 600x80 pixels
