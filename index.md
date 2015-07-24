@@ -8,7 +8,7 @@ layout: frontpage
 title: "A Journey to get the Data Scientist out of me..."
 header:
     title: A Journey to craft the Data Scientist in me...
-    image_fullwidth: photo-1433650552684-d4004a945d6c.jpg
+    image_fullwidth: photo-1433650552684-d4004a945d6c
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 widget-1:
