@@ -43,7 +43,7 @@ Thank G-d, resilience is one of my treats and I do not give up on anything that 
 , and you WILL do it!
 
 So, after a week of few hours of sleep and a lot of programming, cursing, reading Python books, browsing Python tutorials, cursing
-, asking for help to the instructors and classmates, and a little bit more of cursing, I made it through the week and was able to 
+, asking for help to the instructors and classmates, and a little bit more of cursing, I made it through the week and was able to
 deliver the required analysis!!!
 
 Super-proud of the accomplishment!
