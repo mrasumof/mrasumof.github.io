@@ -2,6 +2,7 @@
 layout: page-fullwidth
 title: "My First Week as a Data Scientist !!!!"
 subheadline: "So...you want to be a Data Scientist?"
+teaser: "Here is where my formal career as a Data Scientist start...Do you want to know how I felt on my first week of training? Here you will find a brief"
 header:
     title: ""
     image_fullwidth: header_homepage_13.jpg
@@ -23,11 +24,11 @@ image:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ##A Dictionary, a list, a list of dictionaries, a dictionary of lists of tuples of lists...What the heck is going on????
-<br><br><br>
-Oh yeah! Here I am, my first day at Metis Data Science bootcamp. Happy, expectant to have formal training on a field
+<br>
+Oh yeah! Here I am, my first day at Metis Data Science bootcamp. Happy, expecting to have formal training on a field
 I wanted to get into for a long time. Actually, I was interested in this field even before it was called "Data Sciences".
-Some years ago I almost apply to a Masters program in Belgium that was called "CRM Analytics". Things happen at the right
-time and for a good reason. I am here now and will get the best out of this, my second career. 
+Some years ago I almost apply to a Masters program in Belgium that was called "CRM Analytics". It was not the time.  Things happen at
+the right time and always for a good reason. I am here now and will get the best out of this, my second career. 
 
 Coming to Metis required me to take some on-line training in Python and some Statistics refresher. I did all the required
 pre-work and felt internal confidence, but that would change in a matter of hours :smile: ...
