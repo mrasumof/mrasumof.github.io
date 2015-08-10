@@ -1,18 +1,8 @@
 ---
 layout: page-fullwidth
-title: "My First Week as a Data Scientist Bootcamp !!!!"
+title: "My First Week as a Data Scientist !!!!"
 subheadline: "So...you want to be a Data Scientist?"
----
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
----
+
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ##A Dictionary, a list, a list of dictionaries, a dictionary of lists of tuples of lists...What the heck is going on????
