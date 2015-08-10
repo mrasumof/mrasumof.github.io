@@ -7,8 +7,8 @@ header:
     image_fullwidth: header_homepage_13.jpg
     caption: In the search of hidden truths
 image:
-    thumb:  metis.jpg
-    homepage: metis.jpg
+    thumb:  Metis.jpg
+    homepage: Metis.jpg
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
