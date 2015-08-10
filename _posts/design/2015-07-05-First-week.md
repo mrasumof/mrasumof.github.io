@@ -2,6 +2,8 @@
 layout: page-fullwidth
 title: "My First Week as a Data Scientist !!!!"
 subheadline: "So...you want to be a Data Scientist?"
+header:
+    image_fullwidth: "header_typewriter.jpg"
 image:
     thumb:  homepage_typography_thumb.jpg
     homepage: homepage_typography.jpg
