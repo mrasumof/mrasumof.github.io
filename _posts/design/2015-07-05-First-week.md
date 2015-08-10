@@ -2,9 +2,17 @@
 layout: page-fullwidth
 title: "My First Week as a Data Scientist !!!!"
 subheadline: "So...you want to be a Data Scientist?"
+image:
+    thumb:  homepage_typography_thumb.jpg
+    homepage: homepage_typography.jpg
+---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
 </div>
 </div><!-- /.medium-4.columns -->
 
