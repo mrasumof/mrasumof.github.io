@@ -35,15 +35,15 @@ pre-work and felt internal confidence, but that would change in a matter of hour
 We started talking about Python data structures, arrays, lists, dictionaries...I am cool..but then things started to get a
 little bit more complex.
 
-First problem set: let's download NYC MTA traffic data and load it to a dictionary that contains a list of tuples that$
-contains lists...excuse me, what???? I started to think that I am a little bit too "experienced" for this, to not say $
+First problem set: let's download NYC MTA traffic data and load it to a dictionary that contains a list of tuples that
+contains lists...excuse me, what???? I started to think that I am a little bit too "experienced" for this, to not say 
 plainly old :smile:, which I am not!!!
 
-Thank G-d, resilience is one of my treats and I do not give up on anything that easily. My motto the first week was: you CAN do it$
+Thank G-d, resilience is one of my treats and I do not give up on anything that easily. My motto the first week was: you CAN do it
 , and you WILL do it!
 
-So, after a week of few hours of sleep and a lot of programming, cursing, reading Python books, browsing Python tutorials, cursing$
-, asking for help to the instructors and classmates, and a little bit more of cursing, I made it through the week and was able to $
+So, after a week of few hours of sleep and a lot of programming, cursing, reading Python books, browsing Python tutorials, cursing
+, asking for help to the instructors and classmates, and a little bit more of cursing, I made it through the week and was able to 
 deliver the required analysis!!!
 
 Super-proud of the accomplishment!
