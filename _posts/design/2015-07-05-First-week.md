@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "My First Week as a Data Scientist Bootcamp !!!!"
-subheadline: "A Dictionary, a list, a list of dictionaries, a dictionary of lists of tuples of lists...What the heck is going on????"
+subheadline: "So...you want to be a Data Scientist?"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -15,7 +15,7 @@ subheadline: "A Dictionary, a list, a list of dictionaries, a dictionary of list
 ---
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-## So...you want to be a Data Scientist?
+##A Dictionary, a list, a list of dictionaries, a dictionary of lists of tuples of lists...What the heck is going on????
 
 Oh yeah! Here I am, my first day at Metis Data Science bootcamp. Happy, expectant to have formal training on a field$
 I wanted to get into for a long time. Actually, I was interested in this field even before it was called "Data Sciences".$
