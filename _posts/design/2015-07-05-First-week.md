@@ -5,11 +5,10 @@ subheadline: "So...you want to be a Data Scientist?"
 header:
     title: ""
     image_fullwidth: header_homepage_13.jpg
-    caption: In the search of hidden truth
-
+    caption: In the search of hidden truths
 image:
-    thumb:  homepage_typography_thumb.jpg
-    homepage: homepage_typography.jpg
+    thumb:  metis.png
+    homepage: metis.png
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
