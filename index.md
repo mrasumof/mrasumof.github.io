@@ -12,8 +12,8 @@ header:
 #    caption: This is a caption for the header image with link
 #    caption_url: https://unsplash.com/
 widget-1:
-    title: "Blog & Portfolio"
-    url: 'http://mrasumof.github.io/feeling-responsive/blog/'
+    title: "Why blogging?"
+    url: 'http://mrasumof.github.io/blog/'
     text: 'Welcome to my journey of becoming a Data Scientist. The purpose of this site is to share with my audience the projects, challenges and data science issues that I feel passionate about...so, welcome to my journey!!!'
     image: header_unsplash_4.jpg
 ---
