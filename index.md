@@ -14,6 +14,6 @@ header:
 widget-1:
     title: "Why blogging?"
     url: 'http://mrasumof.github.io/blog/'
-    text: 'Welcome to my journey of becoming a Data Scientist. The purpose of this site is to share with my audience the projects, challenges and data science issues that I feel passionate about...so, welcome to my journey!!!'
+    text: 'Welcome to my journey of becoming a Data Scientist. The purpose of this site is to share with my audience all the projects, initiatives and challenges that I feel passionate about...so, welcome to my journey!!!'
     image: header_unsplash_4.jpg
 ---
